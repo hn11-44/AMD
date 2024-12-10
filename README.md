@@ -6,7 +6,7 @@ The purpose of this project highlights the use of Apriori algorithm in finding a
 
 Data 
 
-LinkedIn Jobs 2023:
+LinkedIn Jobs 2024:
 https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024
 
 
