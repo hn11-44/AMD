@@ -12,9 +12,9 @@ https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024
 
 Files in the repository: 
 
-AMD-Linked => Colab Notebook consisiting of all of the codes and minor explanations 
+AMD-Linked => Colab Notebook consisting of all of the codes and minor explanations 
 
-AMD_report => Report discussing methedology and discussing results and conclusion. 
+AMD_report => Report discussing methodology and discussing results and conclusion. 
 
 
 
